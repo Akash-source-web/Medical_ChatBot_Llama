@@ -1,0 +1,10 @@
+ctransformers==0.2.5    #because we use quantize model 
+sentence-transformers==2.2.2  #embadding
+pinecone-client     #vector database
+langchain==0.0.225  
+langchain-community
+flask       #front end
+pypdf       #read pdf
+python-dotenv   
+
+-e .
