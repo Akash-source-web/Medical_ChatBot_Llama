@@ -1,1 +1,1 @@
-# Medical_ChatBot_Llama
+# Medical ChatBot Llama 2
